@@ -19,7 +19,7 @@ Credit card fraud is increasing rapidly worldwide, and traditional rule-based sy
 * Dataset: Kaggle Credit Card Fraud Detection Dataset
 * Total Transactions: 284,807
 * Fraud Cases: 0.17%
-
+* Access Dataset here: https://drive.google.com/drive/folders/1F1GQU9Ox8oiaDjtOF8-am2vEpP0biXqg?usp=sharing
 ---
 
 ## Technologies Used
